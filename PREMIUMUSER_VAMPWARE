@@ -1,2 +1,3 @@
 -- not released. Please use the free version: (MAY TAKE TIME TO EXECUTE) -
+-- View Commands With The Command: "cmds2" - NO PREFIX!
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kyotosvamp/VampWare/main/FREEUSER_VAMPWARE"))()
