@@ -1,1 +1,2 @@
-not released. Please use the free version: loadstring(game:HttpGet("https://raw.githubusercontent.com/kyotosvamp/VampWare/main/FREEUSER_VAMPWARE"))()
+-- not released. Please use the free version: (MAY TAKE TIME TO EXECUTE) -
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyotosvamp/VampWare/main/FREEUSER_VAMPWARE"))()
